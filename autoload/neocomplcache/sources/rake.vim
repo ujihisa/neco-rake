@@ -1,3 +1,6 @@
+" Author: Tatsuhiro Ujihisa <ujihisa at gmail com>
+" License: GPL-3 or later
+
 " filetypes aren't only vimshell but also vim for command-line window.
 let s:source = {
       \ 'name': 'rake',
